@@ -1,7 +1,7 @@
 print("Lista zakupów")
 # definiujemy słownik
 shopping_dict = {
-    'piekarnia': ['chleb', 'bułki', 'pączek'],
+    'piekarnia': ['chleb', 'bułki', 'ciastka'],
     'warzywniak': ['marchew', 'seler', 'rukola']
 }
 
